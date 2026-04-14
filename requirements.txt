@@ -1,0 +1,39 @@
+# Data
+arxiv==2.1.3
+datasets==2.19.1
+
+# Embeddings & Vector Store
+chromadb==0.5.0
+sentence-transformers==3.0.1
+
+# RAG
+llama-index==0.10.43
+llama-index-vector-stores-chroma==0.1.8
+llama-index-embeddings-huggingface==0.2.2
+
+# Fine-tuning
+transformers==4.41.2
+peft==0.11.1
+trl==0.8.6
+bitsandbytes==0.43.1
+accelerate==0.30.1
+
+# Evaluation
+rouge-score==0.1.2
+bert-score==0.3.13
+evaluate==0.4.2
+
+# Experiment tracking
+mlflow==2.13.0
+
+# UI
+gradio==4.36.1
+
+# Utilities
+torch==2.3.0
+python-dotenv==1.0.1
+pandas==2.2.2
+matplotlib==3.9.0
+seaborn==0.13.2
+notebook==7.2.0
+tqdm==4.66.4
