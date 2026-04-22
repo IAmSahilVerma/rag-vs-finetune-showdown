@@ -1,0 +1,26 @@
+{
+  "baseline": {
+    "rouge1": 0.1484,
+    "rouge2": 0.078,
+    "rougeL": 0.1284,
+    "bertscore_precision": 0.6925,
+    "bertscore_recall": 0.8062,
+    "bertscore_f1": 0.7442
+  },
+  "rag": {
+    "rouge1": 0.1366,
+    "rouge2": 0.0623,
+    "rougeL": 0.1143,
+    "bertscore_precision": 0.6918,
+    "bertscore_recall": 0.812,
+    "bertscore_f1": 0.7464
+  },
+  "finetuned": {
+    "rouge1": 0.3856,
+    "rouge2": 0.3284,
+    "rougeL": 0.3592,
+    "bertscore_precision": 0.7871,
+    "bertscore_recall": 0.9247,
+    "bertscore_f1": 0.8493
+  }
+}
