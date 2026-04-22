@@ -132,8 +132,6 @@ rag-vs-finetune-showdown/
 ├── models/                          # Saved LoRA adapter weights
 ├── results/                         # Prediction files and evaluation summary
 ├── mlruns/                          # MLflow experiment data
-├── notebooks/
-│   └── analysis.ipynb               # Results visualisation
 │
 ├── .env.example
 ├── .gitignore
