@@ -17,6 +17,14 @@ Built as a portfolio project to demonstrate hands-on experience with both approa
 
 **Fine-tuning dominated every metric** in this controlled evaluation. However, this result reflects the experiment design: the eval questions were generated from the same distribution as the training data, giving fine-tuning a natural advantage. In production, RAG offers critical benefits that benchmarks alone don't capture: no retraining when data changes, full source attribution, and reduced hallucination on out-of-distribution queries.
 
+### Evaluation Output
+
+![Evaluation Results](assets/evaluation_results.png)
+
+### Gradio Demo
+
+![Gradio Demo](assets/gradio_demo.png)
+
 ---
 
 ## What This Project Demonstrates
