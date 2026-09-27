@@ -152,7 +152,7 @@ rag-vs-finetune-showdown/
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/rag-vs-finetune-showdown.git
+git clone https://github.com/IAmSahilVerma/rag-vs-finetune-showdown.git
 cd rag-vs-finetune-showdown
 python -m venv venv
 source venv/bin/activate        # Linux/Mac
